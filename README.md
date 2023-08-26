@@ -5,5 +5,6 @@ I have submitted my idea for the start-a-thon in the PowerPoint presentation. He
 
 This is the youtube video explaining my idea in under 5 mins: https://youtu.be/2boJ2Fuj2BA
 Sorry for the bad voice, trying to improve it.
+Here is my Github stat widget from quine:[![Dragoon4002's GitHub | Stats](https://stats.quine.sh/Dragoon4002/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Dragoon4002)
 
 Questions/ advice/ flaws regarding this product would be really appreciated
